@@ -1,0 +1,15 @@
+{
+  "name": "simulacrodeexamen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "simulacro.js",
+  "scripts": {
+    "eje1": "tsc simulacro.ts",
+    "start1": "node simulacro.js",
+    "eje3": "tsc eje3Simulacro.ts",
+    "start2": "node eje3Simulacro.js"
+
+  },
+  "author": "",
+  "license": "ISC"
+}
